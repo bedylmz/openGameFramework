@@ -51,5 +51,5 @@ Some screenshots from the current state of rendering:
 ![Textured Model](readMe/textured.png)  
 ![Varying Color](readMe/variyingColor.png)
 
-Model by Berk Gedik, [Sketchfab Link.]https://sketchfab.com/3d-models/survival-guitar-backpack-low-poly-799f8c4511f84fab8c3f12887f7e6b36
+Model by Berk Gedik, [Sketchfab Link.](https://sketchfab.com/3d-models/survival-guitar-backpack-low-poly-799f8c4511f84fab8c3f12887f7e6b36)
 
